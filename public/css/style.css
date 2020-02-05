@@ -1,0 +1,220 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+.modal__image {
+  height: 200px;
+}
+
+.popup__modal {
+  font-size: 2rem;
+  padding: 3rem;
+  border-radius: 5px;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  display: none;
+  background-color: white;
+  box-shadow: 0 8px 6px -6px black;
+}
+
+.header {
+  position: relative;
+  font-size: 1.3rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 100%;
+  background-image: url(../images/background-image.jpg);
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+
+.products {
+  margin: 1rem;
+  position: relative;
+  display: grid;
+  grid-gap: 1rem;
+  grid-template-columns: repeat(2, 1fr);
+  grid-auto-rows: minmax(400px, 1fr);
+}
+
+.product__image {
+  object-fit: cover;
+  height: 200px;
+  width: auto;
+}
+
+.product__logo {
+  width: 50px;
+  height: auto;
+}
+
+.product {
+  box-shadow: 0 6px 6px rgba(189, 189, 189, 0.849);
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  border: 1px solid rgb(230, 230, 230);
+  grid-template-columns: 20% 80%;
+  grid-template-rows: minmax(200px, 1fr);
+}
+
+.logo__image {
+  justify-content: center;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+.product__logo {
+  position: absolute;
+  top: 2px;
+  left: 2px;
+}
+
+.select__size:focus {
+  height: 1.5rem;
+  width: auto;
+  margin: 0.2rem;
+  border: 1px solid black;
+}
+
+.product__info {
+  margin: 0 10px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.product__description {
+  font-size: 0.8rem;
+  line-height: 1.5;
+}
+
+.page__title {
+  font-family: "Bangers", cursive;
+  color: rgb(0, 0, 0);
+  font-size: 4rem;
+  text-shadow: 1px 0px #eee, 0px 1px #ccc, 2px 1px #eee, 1px 2px #ccc,
+    3px 2px #eee, 2px 3px #ccc, 4px 3px #eee, 3px 4px #ccc, 5px 4px #eee,
+    4px 5px #ccc, 6px 5px #eee, 5px 6px #ccc, 7px 6px #eee, 6px 7px #ccc,
+    8px 7px #eee, 7px 8px #ccc, 8px 8px #eee;
+}
+
+.buttons {
+  margin-top: 20px;
+}
+
+.btn {
+  text-decoration: none;
+  margin: 20px;
+  border: none;
+  background: #ffffff;
+  color: #000000cb !important;
+  font-weight: 100;
+  padding: 20px;
+  text-transform: uppercase;
+  border-radius: 6px;
+  display: inline-block;
+  transition: all 0.3s ease 0s;
+}
+
+.btn:hover {
+  color: #000000cb !important;
+  font-weight: 700 !important;
+  letter-spacing: 3px;
+  background: none;
+  box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  transition: all 0.3s ease 0s;
+}
+
+.product__btn {
+  outline: none;
+  border: none;
+  padding: 10px;
+  border-radius: 5px;
+  background-color: rgba(233, 233, 233, 0.822);
+}
+
+.product__btn:hover {
+  color: #000000cb !important;
+  font-weight: 700 !important;
+  letter-spacing: 3px;
+  background: none;
+  box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0, 0, 0, 0.57);
+  transition: all 0.3s ease 0s;
+}
+
+.product__price {
+  font-size: 1.3rem;
+  font-weight: 400;
+}
+
+.input__container {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+  margin: 0 10px;
+}
+
+.product__size {
+  justify-content: center;
+  align-items: center;
+  display: flex;
+  flex-direction: row;
+}
+
+.item__image {
+  height: 150px;
+}
+
+.shoppingcart__item {
+  border: 1px solid rgb(230, 230, 230);
+  box-shadow: 0 6px 6px rgba(189, 189, 189, 0.849);
+  margin: 20px 0;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.cart__title {
+  margin-top: 20px;
+  text-align: center;
+  font-family: "Bangers", cursive;
+}
+
+.btn_cart {
+  margin: 20px auto;
+  width: 250px;
+  display: block;
+  text-align: center;
+  background-color: lightgreen;
+}
+
+.modal__title,
+.modal__name,
+.modal__price,
+.modal__size {
+  margin: 10px;
+}
+
+.shoppingcart {
+  margin: 20px;
+}

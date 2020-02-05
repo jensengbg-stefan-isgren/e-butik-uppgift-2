@@ -1,0 +1,199 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "brand": "https://i.pinimg.com/736x/45/84/b9/4584b9dd95420f33401ada8ca7ec51af.jpg",
+      "name": "Armada Arv 116 JJ",
+      "description": "The iconic Armada ARV 116 JJ continues to carve its name into ski lore, coming correct with a Poplar & Ash wood core for increased response popping between pillow lines and tree shots. The ARV 116 JJ maintains confidence in tight conditions and no-fall zones with a stiffer profile than in previous years. 3D beveling on the tips/tails of the base is brought to you through Smear Tech, allowing limitless directions of drifting/pressing and smearing as you put your signature on the mountain.",
+      "price": 825,
+      "size": [
+        165,
+        175,
+        185,
+        192
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006532_700_065_32.png"
+    },
+    {
+      "id": 2,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-k2.png",
+      "name": "K2 Empress Women",
+      "description": "Dank Duracap-Seitenwangen und einem nahezu unzerstörbaren Kern aus Espenholz kann der K2 Empress mit sämtlichen starken Belastungen umgehen, egal ob bei Hardcore-Jibs, Begegnungen mit Baumstümpfen oder ganz normalen Abfahrten auf der Piste.",
+      "price": 345,
+      "size": [
+        159,
+        169
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005241_700_052_41.png"
+    },
+    {
+      "id": 3,
+      "brand": "https://i.pinimg.com/originals/c4/25/d6/c425d6294fbff7ea96be5c4557ba9777.jpg",
+      "name": "Nordica Enforcer",
+      "description": "Armed with no shortage of accolades, the Nordica Enforcer 100 freeride ski offers legendary all mountain performance—and plenty of smiles. For a trusted ride that’s especially smooth and stable, it pairs a full wood core with two sheets of metal. In addition to dampening vibrations, this enhances stability and response. And to boost confidence in variable conditions, it features an early rise tip and slight tail rocker with traditional camber under foot. Simply put, this creates a modern design that allows you to ski how you want—where you want. Smooth, powerful, and playful, the Enforcer 100 is up for anything.",
+      "price": 625,
+      "size": [
+        169,
+        177,
+        185,
+        193
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70001507_700_015_07.png"
+    },
+    {
+      "id": 4,
+      "brand": "https://i.pinimg.com/736x/45/84/b9/4584b9dd95420f33401ada8ca7ec51af.jpg",
+      "name": "Armada Magic J",
+      "description": "As one of Armada’s co-founders, Tanner Hall, continues to push the boundaries of skiing from urban to powder, the Armada Magic J remains his go-to tool in deep and challenging conditions. Utilizing tip and tail rocker and a stiffer flex pattern the Magic J remains predictable and confident in whatever you throw at it. The 127mm wide Magic J remains the ultimate soft snow ski.",
+      "price": 799,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006548_700_065_48.png"
+    },
+    {
+      "id": 5,
+      "brand": "https://i.pinimg.com/736x/45/84/b9/4584b9dd95420f33401ada8ca7ec51af.jpg",
+      "name": "Line Pandora Women",
+      "description": "The award-winning Line Pandora 104 is back again. With the same Magic Finger Carbon Filaments™ that harmonize with the AspenliteTM core for a stable, lightweight ride, the Pandora 104 is for those deep days. Nimble, quick, and unsinkable, the Pandora 104 offers a women’s specific big mountain performance in an uncompromising design.",
+      "price": 425,
+      "size": [
+        165,
+        172
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005537_700_055_37.png"
+    },
+    {
+      "id": 6,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-k2.png",
+      "name": "K2 Press",
+      "description": "The Factory Team K2 Press ski that you can throw in the back of the truck, drag through the parking lot, launch a few side hits, and slide rails all day on without worrying about them falling apart after just one season.",
+      "price": 299,
+      "size": [
+        177,
+        182,
+        187
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005239_700_052_39.png"
+    },
+    {
+      "id": 7,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-blackcrows.png",
+      "name": "Black Crows Navis Freebird",
+      "description": "102mm dedicated to the spirit of adventure. A balance between lift and ski-ability, alpine conduct and progressive front rocker, the Black Crows navis freebird is built for far-flung or daily quests. The modernisation of the iconic model dedicated to touring with improvements made to the hold and the safety. To perfect a ski which already performs very well, the effort was concentrated on the extension of the side lines to gain stability and hold at high speed, but also Black Crows added a titanal plate under foot in order to double the wrenching force and also reinforce the solidity of the mounting of the binding inserts.",
+      "price": 539,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70600307_706_003_07.png"
+    },
+    {
+      "id": 8,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-blackcrows.png",
+      "name": "Black Crows Junius Kids",
+      "description": "Junius is Black Crows junior ski aimed at 7 – 13 year olds focussed on the black crows DNA, making a very accessible ski which prioritises the pleasure of skiing. Double tip so that the youngsters can devote themselves, unhindered, to all the subtleties of free skiing, the junius is a ski which is made to perform well on all snow conditions.",
+      "price": 799,
+      "size": [
+        140,
+        145,
+        157
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70000301_700_003_01.png"
+    },
+    {
+      "id": 9,
+      "brand": "https://static.sport-conrad.com/out/pictures/media/logo-voelkl.png",
+      "name": "Völkl Revolt",
+      "description": "The Völkl Revolt 87 is built for the serious park rider who prefers a competitive camber shape for maximum pop. It is built for the serious park rider who prefers a competitive camber shape for maximum pop. The 87 offers a 115-87-115mm shape with a fully symmetrical sidecut for switch riding, full sidewall, a full Multi-Layer wood core, and Power/ Tough Box construction.",
+      "price": 399,
+      "size": [
+        175,
+        185,
+        189
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70001030_700_010_30.png"
+    },
+    {
+      "id": 10,
+      "brand": "https://i.pinimg.com/736x/45/84/b9/4584b9dd95420f33401ada8ca7ec51af.jpg",
+      "name": "Armada Edgeless",
+      "description": "Losing the steel edges from the Armada BDog allows Phil to slide wood, aluminum, concrete and other surfaces not made to blend well with steel-edged skis, with full confidence. Circle Flex utilizes a durable Poplar-Ash wood core combined with a unique fiberglass layup to give the ski the softest flexing feel on the market. AR Freestyle Rocker and signature straight sections in the sidecut provide large surface area for all imaginable butters and presses and eat up crusty, handmade in-runs with ease. Creativity is king for Phil, and the BDog Edgeless is his new favorite tool.",
+      "price": 649,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70006528_700_065_28.png"
+    },
+    {
+      "id": 11,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-salomon.png",
+      "name": "Salomon QST",
+      "description": "The Salomon  QST 106 is a soft snow charger that also delivers precise, stable arcs on groomers and hard snow, with a floaty, predictable all twin rocker profile and 3D Woodcore reinforced with C/FX 3 carbon and flax for power when you need it. The new one-ski quiver.",
+      "price": 449,
+      "size": [
+        180,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/2/70003924_700_039_24_a.jpg"
+    },
+    {
+      "id": 12,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-k2.png",
+      "name": "K2 Mindbender",
+      "description": "The K2 Mindbender 108 TI freeride ski is a mid-fat all-condition attack tool. It skis everything from powder and chunder to the groomers with nimble precision and accuracy thanks to an effective blend of rocker, camber, and torsional stiffness.",
+      "price": 569,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70005203_700_052_03.png"
+    },
+    {
+      "id": 13,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo.fischer.png",
+      "name": "Fischer Ranger",
+      "description": "A serious freeride ski for skiers at any skill level. New twin tip design of the Fischer Ranger FR 102 makes this go-anywhere ski ready for both speed and gravity-defying fun. Stable, rugged, and highly maneuverable at all speeds in all conditions, including when climbing is required to reach the best skiing.",
+      "price": 529,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70004006_700_040_06.png"
+    },
+    {
+      "id": 14,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-dps.png",
+      "name": "DPS Wailer",
+      "description": "When the DPS Wailer 112 originally debuted, it carried the ‘RP’ moniker as a suffix. ‘RP’ is back in the name to highlight the legendary shaping style that is characterized by a 15m sidecut and deep rockers. Alchemist stokes the smoothness factor on this classic. The Wailer 112 legacy has dominated magazine tests and is known as the shape that truly makes people ski better. It has the versatility for complete control and g-force generation on hard pack, while cradling the rider into the world of powder planing performance. The Wailer A112 RP consistently and playfully delivers ultimate powder versatility and ease of use in varying conditions.",
+      "price": 649,
+      "size": [
+        177,
+        185,
+        190
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70002808_700_028_08.png"
+    },
+    {
+      "id": 15,
+      "brand": "https://static.sport-conrad.com/out/pictures///media/logo-dynastar.png",
+      "name": "Dynastar Legend",
+      "description": "Designed for fans of wide open spaces, the Dyanstar Legend 106, the widest ski in the Legend-Series, delivers instant float without feeling overly cumbersome on harder snow. With a marked rocker for float on demand and Powerdrive technology together with a Paulownia + Titanal sandwich structure for stability, dampening and fluidity in all circumstances, this ski will help you explore the most beautiful off-trail terrain with complete confidence in all conditions.",
+      "price": 499,
+      "size": [
+        177,
+        188
+      ],
+      "image": "https://static.sport-conrad.com/out/pictures///master/product/1/70000501_700_005_01.png"
+    }
+  ],
+  "shoppingCart": []
+}
